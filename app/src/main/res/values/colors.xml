@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ccfe9d00</color>
+    <color name="colorPrimaryDark">#e17716</color>
+    <color name="colorWhite">#ccffffff</color>
+    <color name="colorDark">#aa333333</color>
+    <color name="colorSubstrateGray">#f2f2f2</color>
+    <color name="colorDarkGray">#bfbfbf</color>
+    <color name="colorBgBlue">#e7f2fe</color>
+    <color name="colorBgCream">#fff8ec</color>
+    <color name="colorBgRed">#f8ddd2</color>
+    <color name="colorBgGreen">#dde9dd</color>
+    <color name="colorOrangeDark">#e8800f</color>
+    <color name="colorRed">#de561e</color>
+    <color name="colorBlue">#1e78de</color>
+    <color name="colorGreen">#559354</color>
+    <color name="colorGray">#f2f2f2</color>
+    <color name="colorForRings">#24a848</color>
+    <color name="colorOrangeLight">#fe9d00</color>
+    <color name="colorWhiteForStat">#ffffff</color>
+    <color name="colorBlackForStat">#333333</color>
+
+
+
+</resources>

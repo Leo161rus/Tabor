@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/checkbox_md_checked_default" />
+    <item android:drawable="@drawable/checkbox_md_checked_click" android:state_pressed="false"/>
+    <item android:drawable="@drawable/checkbox_md_unchecked_click" android:state_pressed="true"/>
+    <item android:drawable="@drawable/checkbox_md_unchecked_default" android:state_focused="false"/>
+</selector>

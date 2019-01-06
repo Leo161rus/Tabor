@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tabor</string>
+    <string name="all_users" translatable="false">12 083 691 участников</string>
+    <string name="online_users" translatable="false">41 876 человек онлайн</string>
+    <string name="e_mail_or_number_of_mobile" translatable="false">E-mail или телефон</string>
+    <string name="password" translatable="false">Пароль</string>
+    <string name="remember" translatable="false">Запомнить</string>
+    <string name="forget_password" translatable="false">Забыли пароль?</string>
+    <string name="enter" translatable="false">Войти</string>
+    <string name="first_here" translatable="false">Впервые здесь?</string>
+    <string name="registry" translatable="false">РЕГИСТРАЦИЯ</string>
+    <string name="tabor_ru" translatable="false">© 2007 - 2018, Tabor.ru - Онлайн знакомства</string>
+    <string name="failed_to_log_in">Не удалось войти</string>
+    <string name="error">Ошибка</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:drawable="@drawable/checkbox_md_unchecked_click" android:state_checked="false" android:state_focused="true"/>
+    <item android:drawable="@drawable/checkbox_md_unchecked_click" android:state_checked="false" android:state_focused="false"/>
+
+    <item android:drawable="@drawable/checkbox_md_checked_default" android:state_checked="true" android:state_focused="false"/>
+
+    <item android:drawable="@drawable/checkbox_md_checked_click" android:state_checked="false" android:state_focused="true"/>
+    <item android:drawable="@drawable/checkbox_md_checked_click" android:state_checked="false" android:state_focused="false"/>
+
+    <item android:drawable="@drawable/checkbox_md_unchecked_default" />
+
+</selector>

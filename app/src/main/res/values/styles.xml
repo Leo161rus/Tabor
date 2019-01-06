@@ -1,0 +1,100 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorWhite</item>
+    </style>
+
+    <style name="textBodyLg">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">18pt</item>
+    </style>
+
+    <style name="textBodyMd">
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16pt</item>
+    </style>
+
+    <style name="textBodySm" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14pt</item>
+    </style>
+
+    <style name="textLeadLg" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">18pt</item>
+    </style>
+
+    <style name="textLeadMd" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16pt</item>
+    </style>
+
+    <style name="textLeadSm" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14pt</item>
+    </style>
+
+    <style name="textImportantLg" >
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">18pt</item>
+    </style>
+
+    <style name="textImportantMd" >
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">16pt</item>
+    </style>
+
+    <style name="textImportantSm" >
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">14pt</item>
+    </style>
+
+    <style name="textTitle" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20pt</item>
+        <item name="android:color">@android:color/white</item>
+    </style>
+
+    <style name="textSubTitle" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">16pt</item>
+        <item name="android:color">@android:color/white</item>
+    </style>
+
+    <style name="textButtonLg" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:color">@android:color/white</item>
+    </style>
+
+    <style name="textButtonSm" >
+        <item name="android:textStyle">normal</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">17pt</item>
+        <item name="android:color">@android:color/white</item>
+    </style>
+    
+    <style name="Subtitle">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
